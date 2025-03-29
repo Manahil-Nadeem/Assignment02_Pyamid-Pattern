@@ -7,3 +7,11 @@ def draw_pyramid(height):
 
 # Calling the function with height 5
 draw_pyramid(5)
+
+
+#The output is;
+    *
+   ***
+  *****
+ *******
+*********
